@@ -16,4 +16,4 @@ npm start
 vercel: https://ucamptechnicaltestserverapivercel.vercel.app/
 
 ### Test
-https://ucamptechnicaltestserverapivercel.vercel.app/api/search?query='anyvalue'
+https://ucamptechnicaltestserverapivercel.vercel.app/api/search?query=anyvalue
